@@ -9,8 +9,8 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
            Final Push by Mudassir Gadit 
-           <br>
-           Task Completed 
+           
+           Task Completed !
         </p>
         <a
           className="App-link"
